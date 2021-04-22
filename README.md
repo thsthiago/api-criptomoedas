@@ -1,4 +1,4 @@
-## <h1 aling="center">Consumindo Api de criptomoedas</h1>
+<h1 align="center">Consumindo Api de criptomoedas</h1>
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
