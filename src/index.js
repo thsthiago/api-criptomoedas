@@ -34,6 +34,6 @@ fetch('https://pro-api.coinmarketcap.com/v1/cryptocurrency/map?CMC_PRO_API_KEY='
   })
   .catch(err => {
     console.log(err.message)
-    fetch('./lista.json').then(response => response.json())
+    fetch('../lista.json').then(response => response.json())
     .then(response => build(response.data))
   })
